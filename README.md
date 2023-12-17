@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JavaPlugin<br>🌱 I’m currently learning HTML, CSS, Php, Java, Python<br>⚡ Fun fact I am a self-taught learner
+🔭 I’m currently working on JavaPlugin<br>🌱 I’m currently learning HTML, CSS, Php, Java, Python<br>🇫🇷 South of the France
 
 
 ## 🌐 Socials:
