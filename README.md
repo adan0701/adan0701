@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter Apps<br>🌱 I’m currently learning HTML, CSS, Php, Java, Python<br>🇫🇷 South of France
+🌱 I’m currently learning HTML, CSS, Php, Java, Python<br>🇫🇷 South of France
 
 
 ## 🌐 Socials:
